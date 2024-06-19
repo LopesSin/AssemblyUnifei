@@ -1,6 +1,5 @@
 .data
 
-inteiro:	.space 4
 positivo:  	.asciiz "positivo"
 negativo:  	.asciiz "negativo"
 
